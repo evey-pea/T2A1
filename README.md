@@ -11,7 +11,9 @@ ACME Corporation is very big on project management, documentation and process. T
 
 *Q3: Discuss the implementation of Agile project management methodology*
 
-Agile project management consists of a development team with defined roles and strategies that determine their level of involvement. It was originally defined in [The Agile Manifesto](https://agilemanifesto.org/history.html) in 2001. The focus of the 12 principles in the manifesto is on building working code frequently rather than to documentation heavy specifications.
+Agile project management consists of a development team with defined roles and strategies that determine their level of involvement. 
+
+It was originally defined in [The Agile Manifesto](https://agilemanifesto.org/history.html) in 2001. The focus of the 12 principles in the manifesto is on building working code frequently rather than to documentation heavy specifications.
 
 ### User
 
